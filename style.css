@@ -1,23 +1,18 @@
-body {
-    background-color: grey;
+h1{
+    
+    color:black
+
 }
 
-#banner {
-    width: 100%;
+body{
+background-color: gray;
+
 }
 
-h1 {
-    text-align: center;
+p{
+    text-align: left;
+ font-size: medium;
+color:black;
+
+
 }
-
-p {
-    text-align: center;
-}
-
-#missao {
-    font-size: 20px;
-}
-
-
-em strong {
-    color:brown#e61010
